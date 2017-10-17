@@ -42,7 +42,10 @@ $ sh deploy.sh
 
 ```
 
+### API Usage
 
-### Run On tomcat
+- http://localhost:8080/geoip/city/{ip}
 
-visit http://localhost:8080/
+### Swagger Documentation
+
+- visit http://localhost:8080/
