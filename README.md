@@ -12,6 +12,11 @@ Spring4 MVC GeoIP2 REST API with Swagger API Documentation.
 
 ## Getting Started
 
+### Downloading The Source Code
+
+```
+$ git clone https://github.com/tsungtwu/spring-geoip2-rest-api.git
+```
 
 ### Downloading The Database
 Format: MaxMind binary format
